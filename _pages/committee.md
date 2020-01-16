@@ -7,24 +7,24 @@ author_profile: true
 
 ## General Chairs
 
-Jingtao Sun(National Institute of Informatics, Japan) 
+Jingtao Sun (National Institute of Informatics, Japan) <sun@nii.ac.jp>
 
 ## Program Chair
 
-Qiang Wang(Wuhan University of Technology, China)
+Qiang Wang (Wuhan University of Technology, China) <wangqiang@whut.edu.cn>
 
 ## Program Committee:
 Cheng Yang (York University, Canada)
 
 Minxiang Ye (University of Strathclyde, UK)
 
-Yining Liu(Guilin University Of Electronic Technology, China)
+Yining Liu (Guilin University Of Electronic Technology, China)
 
-Sisi Duan(University of Maryland, Baltimore County, US)
+Sisi Duan (University of Maryland, Baltimore County, US)
 
-Ke Yan(National University of Singapore, Singapore)
+Ke Yan (National University of Singapore, Singapore)
 
-Sai Ma(The Univerisity of Tokyo, Japan)
+Sai Ma (The Univerisity of Tokyo, Japan)
 
 Jie Huang (Fuzhou University, China)
 
