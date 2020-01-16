@@ -83,11 +83,13 @@ author:
   name             : "IBPI2020"
   avatar           : "calgary.jpg"
   bio              : "The 2nd Workshop on Intelligence Big Data Processing Infrastructure and Its Applications in conjunction with PICom 2020."
-  location         : "June 22-26, 2020, Calgary, Canada"
+  location         : "Calgary, Canada"
+  time             : "June 22-26, 2020"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com" <add> your 
-  email            :
+  email            : "Jingtao Sun <sun@nii.ac.jp>"
+  email            : "Qiang Wang <wangqiang@whut.edu.cn>"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
