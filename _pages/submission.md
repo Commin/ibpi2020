@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-All submissions must be followed in the **IEEE CS proceedings format**, and all accepted papers will be published by IEEE (IEEE-DL and EI indexed) in Conference Proceedings. Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal special issues.
+All submissions must be followed in the [IEEE CS proceedings format](https://www.ieee.org/conferences/publishing/templates.html), and all accepted papers will be published by IEEE (IEEE-DL and EI indexed) in Conference Proceedings. Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal special issues.
 
 _Workshop/special session paper_: **4-6 pages.**
 
